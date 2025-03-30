@@ -1,0 +1,15 @@
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\bin\Debug\net8.0\Client.exe
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\bin\Debug\net8.0\Client.dll
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.sourcelink.json
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.dll
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\Fineas\OneDrive\Desktop\TCP_App\TCP_App\Client\obj\Debug\net8.0\ref\Client.dll
