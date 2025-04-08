@@ -21,33 +21,6 @@ while (true)
 	_=HandleClientAsync(client);
 }
 
-//NetworkStream stream = client.GetStream();
-//StreamReader reader = new StreamReader(stream);
-//StreamWriter writer = new StreamWriter(stream) {AutoFlush=true };
-
-//try
-//{
-//	while (true)
-//	{
-//		string message=reader.ReadLine() ?? string.Empty;
-//		if(string.IsNullOrEmpty(message))
-//			break;
-
-//		Console.WriteLine($"Client: {message}");
-//		writer.WriteLine("Server received: "+message);
-//	}
-//}
-//catch (Exception ex)
-//{
-//	Console.WriteLine($"Error: {ex}");
-//}
-//finally
-//{
-//	client.Close();
-//	listener.Stop();
-//	Console.WriteLine("Server shutdown");
-//}
-
 async Task HandleClientAsync(TcpClient client)
 {
 	NetworkStream stream = client.GetStream();
@@ -81,11 +54,6 @@ async Task HandleClientAsync(TcpClient client)
 		Console.WriteLine("Client disconected");
 	}
 
-	//		if(string.IsNullOrEmpty(message))
-	//			break;
-
-	//		Console.WriteLine($"Client: {message}");
-	//		writer.WriteLine("Server received: "+message);
 }
 
 async Task BroadcastAsync(string message)

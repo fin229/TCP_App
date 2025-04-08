@@ -32,18 +32,6 @@ try
 		await writer.WriteLineAsync(message);
 	}
 
-	//while (true)
-	//{
-	//	Console.Write("You: ");
-	//	string message=Console.ReadLine()??string.Empty;
-
-	//	if(string.IsNullOrEmpty(message))
-	//		break;
-
-	//	writer.WriteLine(message);
-	//	string response=reader.ReadLine()??string.Empty;
-	//	Console.WriteLine($"Server: {response}");
-	//}
 }
 catch (Exception ex)
 {
