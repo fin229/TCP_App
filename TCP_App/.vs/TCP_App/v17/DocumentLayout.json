@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|c:\\users\\fineas\\onedrive\\desktop\\tcp_app\\tcp_app\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B40AF927-77E0-4EC4-87A0-703E1F7F29DF}|Server\\Server.csproj|c:\\users\\fineas\\onedrive\\desktop\\tcp_app\\tcp_app\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40AF927-77E0-4EC4-87A0-703E1F7F29DF}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|c:\\users\\fineas\\onedrive\\desktop\\tcp_app\\tcp_app\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|c:\\users\\fineas\\onedrive\\desktop\\tcp_app\\tcp_app\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B922878C-4711-4AE2-9A88-C90646F8EC89}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,26 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Program.cs",
-              "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Program.cs",
-              "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T15:32:03.996Z",
+              "DocumentIndex": 2,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T15:42:44.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T15:32:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Server\\Program.cs",
               "RelativeDocumentMoniker": "Server\\Program.cs",
               "ToolTip": "C:\\Users\\Fineas\\OneDrive\\Desktop\\TCP_App\\TCP_App\\Server\\Program.cs",
               "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T15:30:53.08Z",
               "EditorCaption": ""

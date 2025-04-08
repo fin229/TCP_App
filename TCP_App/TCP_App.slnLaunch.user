@@ -4,7 +4,8 @@
     "Projects": [
       {
         "Name": "Server\\Server.csproj",
-        "Action": "Start"
+        "Action": "Start",
+        "DebugTarget": ""
       },
       {
         "Name": "Client\\Client.csproj",
