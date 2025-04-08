@@ -16,19 +16,19 @@ try
 
 	_ = Task.Run(async () =>
 	{
+		Console.WriteLine("Received: ");
 		string? incoming;
 		while ((incoming = await reader.ReadLineAsync()) != null)
 		{
-			Console.WriteLine("Received: ");
 			Console.WriteLine(incoming);
 		}
 
 	});
 
+	Console.WriteLine("Sent: ");
 	string? message;
 	while ((message = Console.ReadLine()) != null)
 	{
-		Console.WriteLine("Sent: ");
 		await writer.WriteLineAsync(message);
 	}
 
